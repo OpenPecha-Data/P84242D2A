@@ -36,3 +36,8 @@ source_metadata:
       parent: Three Gateways to Liberation
 created_at: '2022-03-01T01:24:12.900215'
 last_modified_at: '2022-03-01T01:24:12.900217'
+statistics:
+  total_words: 3039
+  total_non_words: 219
+quality:
+  non_words_ratio: 0.07
